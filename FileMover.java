@@ -4,7 +4,7 @@ import java.io.*;
 import java.nio.file.Files; 
 import java.nio.file.*; 
   
-public class ok 
+public class FileMover 
 { 
     public static void main(String[] args) throws IOException 
     { 
