@@ -1,5 +1,3 @@
-// Java program to illustrate renaming and 
-// moving a file permanently to a new loaction 
 import java.io.*; 
 import java.nio.file.Files; 
 import java.nio.file.*; 
