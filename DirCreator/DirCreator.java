@@ -1,4 +1,6 @@
-import java.io.*; 
+package DirCreator;
+
+import java.io.*;
 
     
     public class DirCreator  {

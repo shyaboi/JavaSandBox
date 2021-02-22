@@ -1,7 +1,9 @@
-import java.io.*; 
+package Desktop;
+
+import java.io.*;
 
 public class Desktop {
-    static String doThing(){
+    static public String doThing(){
         String desktop = System.getProperty("user.home") + "/Desktop";
 
         return desktop;
